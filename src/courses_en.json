@@ -1,0 +1,45 @@
+  [
+  {
+    "nome": " Civil Engineering",
+    "duracao": "10 Semesters",
+    "objetivo": "The course aims to train professionals to develop projects, size and specify the materials and systems to be used, as well as execute civil construction works."
+    },
+    {
+    "nome": "Computer Engineering",
+    "duracao": "10 Semesters",
+    "objetivo": "During the course, the student will receive a solid education in the areas of computing and electronics."
+    },
+    {
+    "nome": "Bioprocess Engineering and Biotechnology",
+    "duracao": "10 Semesters",
+    "objetivo":"The course aims to utilize knowledge from the life sciences for the production of products, services, and processes developed by living organisms, within a multidisciplinary field of knowledge."
+  
+    },
+    {
+    "nome": "Electronic Engineering",
+    "duracao": "10 Semesters",
+    "objetivo": "The course aims to provide students with a solid and general education so that they can work in the planning, design, development and implementation of electro-electronic systems."
+    
+    },
+    {
+    "nome": "Bachelor's degree in Mathematics",
+    "duracao": "8 Semesters",
+    "objetivo":"The course aims to train mathematics teachers for basic education, providing them with a solid scientific, pedagogical, humanistic, and cultural foundation, and enabling them to pursue continuing education."
+    
+    },
+    {
+    "nome": "Technology in Chemical Processes",
+    "duracao": "6 Semesters",
+    "objetivo": "The course trains professionals to work in quality control of chemical processes and products, in chemical, physicochemical, and chemical-biological analyses, product and process standardization, and also in research and development of new technologies."
+    },
+    {
+    "nome": "Technology in Internet Systems",
+    "duracao": "6 Semesters",
+    "objetivo": "The course aims to train professionals to work in the areas of web development, computer network administration and design, and internet services and systems administration."
+    },
+    {
+    "nome": "Coming soon: Data Science and Artificial Intelligence",
+    "duracao": "10 Semesters",
+    "objetivo": " A course approved for the Toledo Campus, scheduled to begin in 2027, focused on technology and innovation. "
+    } 
+]

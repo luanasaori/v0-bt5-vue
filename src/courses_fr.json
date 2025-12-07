@@ -1,0 +1,46 @@
+[
+  {
+    "nome": "Génie civil",
+    "duracao": "10 Semestres",
+    "objetivo": "Ce cours vise à former des professionnels capables de développer des projets, de dimensionner et de spécifier les matériaux et les systèmes à utiliser, ainsi que d'exécuter des travaux de génie civil."
+},
+  {
+    "nome": "Génie informatique",
+    "duracao": "10 Semestres",
+    "objetivo": "Au cours de cette formation, l'étudiant recevra une solide formation dans les domaines de l'informatique et de l'électronique."
+  },
+   {
+    "nome": "Génie des bioprocédés et biotechnologie",
+    "duracao": "10 Semestres",
+    "objetivo":"Ce cours vise à utiliser les connaissances issues des sciences de la vie pour la production de produits, de services et de procédés développés par les organismes vivants, dans un domaine de connaissances multidisciplinaire"
+  
+  },
+  {
+    "nome": "Ingénierie électronique",
+    "duracao": "10 Semestres",
+    "objetivo": "Ce cours vise à fournir aux étudiants une formation solide et générale leur permettant de travailler dans la planification, la conception, le développement et la mise en œuvre de systèmes électroélectroniques."
+    
+  },
+  {
+    "nome": "Licence en mathématiques",
+    "duracao": "8 Semestres",
+    "objetivo":"Ce cours vise à former des professeurs de mathématiques pour l'enseignement fondamental, en leur fournissant une base scientifique, pédagogique, humaniste et culturelle solide, et en leur permettant de poursuivre des études continues.."
+    
+  },
+  {
+    "nome": "Technologie des procédés chimiques",
+    "duracao": "6 Semestres",
+    "objetivo": "Ce cours forme des professionnels au contrôle qualité des procédés et produits chimiques, aux analyses chimiques, physico-chimiques et chimico-biologiques, à la normalisation des produits et des procédés, ainsi qu'à la recherche et au développement de nouvelles technologies."
+    
+  },
+  {
+    "nome": "Technologie dans les systèmes Internet",
+    "duracao": "6 Semestres",
+    "objetivo": "Ce cours vise à former des professionnels capables de travailler dans les domaines du développement web, de l'administration et de la conception de réseaux informatiques, ainsi que des services et systèmes Internet."
+  },
+  {
+    "nome": "Prochainement : Science des données et intelligence artificielle",
+    "duracao": "10 Semestres",
+    "objetivo": "Un cours approuvé pour le campus de Toledo, dont le début est prévu en 2027, est axé sur la technologie et l'innovation. "
+  } 
+]

@@ -13,6 +13,7 @@
       "about": "Sobre",
       "contact": "Contato",
       "contacts": "Contato",
+      "courses": "Cursos",
       "search": "Buscar",
       "news": "Notícias",
       "cards": "Cards"
@@ -86,6 +87,10 @@
       "title": "Página Inicial",
       "welcomeMessage": "Bem-vindo à página principal do nosso site."
     },
+   "coursesPage": {
+      "title": "Nossos Cursos",
+      "description": "Confira os cursos técnicos e de graduação oferecidos no campus Toledo."
+    },
     "newsPage": {
       "firstNews": {
         "title": "UTFPR firma parceria de R$ 39 milhões com petrolífera chinesa para pesquisa tecnológica",
@@ -130,6 +135,7 @@
       "home": "Home",
       "about": "About",
       "contact": "Contact",
+      "courses": "Courses",
       "contacts": "Contact",
       "news": "News",
       "cards": "Cards"
@@ -202,6 +208,10 @@
       "title": "Home Page",
       "welcomeMessage": "Welcome to the main page of our website."
     },
+    "coursesPage": {
+      "title": "Our Courses",
+      "description": "Check out the technical and undergraduate courses offered at the Toledo campus."
+    },
     "newsPage": {
       "firstNews": {
         "title": "UTFPR signs partnership of R$ 39 million with Chinese oil company for technological research",
@@ -245,6 +255,7 @@
     "routes": {
       "home": "Inicio",
       "about": "Sobre",
+      "courses": "Cursos",
       "contact": "Contacto",
       "contacts": "Contacto",
       "news": "Noticias"
@@ -317,6 +328,10 @@
       "title": "Página de Inicio",
       "welcomeMessage": "Bienvenido a la página principal de nuestro sitio web."
     },
+     "coursesPage": {
+      "title": "Nuestros cursos",
+      "description": "Consulta los cursos técnicos y de pregrado que se ofrecen en el campus de Toledo."
+    },
     "newsPage": {
       "firstNews": {
         "title": "UTFPR firma una asociación de R$ 39 millones con una petrolera china para investigación tecnológica",
@@ -361,6 +376,7 @@
       "home": "Accueil",
       "about": "À propos",
       "contact": "Contact",
+      "courses": "Cours",
       "contacts": "Contact",
       "search": "Rechercher",
       "news": "Nouvelles",
@@ -434,6 +450,10 @@
     "homePage": {
       "title": "Page d'accueil",
       "welcomeMessage": "Bienvenue sur la page d'accueil de notre site."
+    },
+      "coursesPage": {
+      "title": "Nos cours",
+      "description": "Découvrez les formations techniques et de premier cycle proposées sur le campus de Toledo."
     },
     "newsPage": {
       "firstNews": {

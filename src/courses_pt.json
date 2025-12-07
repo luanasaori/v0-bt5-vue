@@ -1,0 +1,46 @@
+[
+  {
+    "nome": "Engenharia Civil",
+    "duracao": "10 Semestres",
+    "objetivo": "O curso visa formar profissionais para desenvolver projetos, dimensionar e especificar os materiais e sistemas a serem utilizados, bem como executar obras de construção civil."
+},
+  {
+    "nome": "Engenharia de Computação",
+    "duracao": "10 Semestres",
+    "objetivo": "Durante o curso, o aluno receberá sólida formação nas áreas de computação e eletrônica."
+  },
+   {
+    "nome": "Engenharia de Bioprocessos e Biotecnologia",
+    "duracao": "10 Semestres",
+    "objetivo":"O curso visa utilizar os conhecimentos das ciências da vida para a produção de produtos, serviços e processos desenvolvidos por seres vivos, em um campo do saber de natureza multidisciplinar."
+  
+  },
+  {
+    "nome": "Engenharia Eletrônica",
+    "duracao": "10 Semestres",
+    "objetivo": "O curso visa oferecer ao estudante uma formação sólida e generalista para que possa atuar no planejamento, projeto, desenvolvimento e na implantação de sistemas eletroeletrônicos."
+    
+  },
+  {
+    "nome": "Licenciatura em Matemática",
+    "duracao": "8 Semestres",
+    "objetivo":"O curso tem como objetivo formar profissionais de ensino de matemática para a educação básica, com sólida base científica na área específica, pedagógica, humana e cultural, com autonomia para formação continuada."
+    
+  },
+  {
+    "nome": "Tecnologia em Processos Químicos",
+    "duracao": "6 Semestres",
+    "objetivo": "O curso forma profissionais para atuar no controle de qualidade de processos e produtos químicos, em análises químicas, físico-químicas, químico-biológicas, padronização de produtos e processos e, ainda, na pesquisa e desenvolvimento de novas tecnologias."
+    
+  },
+  {
+    "nome": "Tecnologia em Sistemas para a Internet",
+    "duracao": "6 Semestres",
+    "objetivo": "O curso visa formar profissionais para atuar nas áreas de desenvolvimento web, administração e projeto de redes de computadores, administração de serviços e sistemas para internet."
+  },
+  {
+    "nome": "Em breve: Ciência de Dados e Inteligência Artificial",
+    "duracao": "10 Semestres",
+    "objetivo": " Curso aprovado para o Campus Toledo, com previsão de início em 2027, focado em tecnologia e inovação. "
+  } 
+]

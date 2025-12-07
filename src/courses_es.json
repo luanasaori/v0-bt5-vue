@@ -1,0 +1,43 @@
+  [
+  {
+    "nome": " Ingeniería civil",
+    "duracao": "10 Semestres",
+    "objetivo": "El curso tiene como objetivo formar profesionales para desarrollar proyectos, dimensionar y especificar los materiales y sistemas a utilizar, así como ejecutar obras de construcción civil."
+    },
+    {
+    "nome": "Ingeniería Informática",
+    "duracao": "10 Semestres",
+    "objetivo": "Durante la carrera, el estudiante recibirá una formación sólida en las áreas de computación y electrónica."
+    },
+    {
+    "nome": "Ingeniería de Bioprocesos y Biotecnología",
+    "duracao": "10 Semestres",
+    "objetivo":"El curso tiene como objetivo utilizar el conocimiento de las ciencias de la vida para la producción de productos, servicios y procesos desarrollados por organismos vivos, dentro de un campo multidisciplinario del conocimiento."
+    },
+    {
+    "nome": "Ingeniería Electrónica",
+    "duracao": "10 Semestres",
+    "objetivo": "El curso tiene como objetivo proporcionar a los estudiantes una formación sólida y general para que puedan trabajar en la planificación, diseño, desarrollo e implementación de sistemas electroelectrónicos."
+    },
+    {
+    "nome": "Licenciatura en Matemáticas",
+    "duracao": "8 Semestres",
+    "objetivo":"TLa carrera tiene como objetivo formar profesores de matemáticas para la educación básica, proporcionándoles una sólida base científica, pedagógica, humanística y cultural, y capacitándolos para continuar su formación continua."
+    
+    },
+    {
+    "nome": "Tecnología en Procesos Químicos",
+    "duracao": "6 Semestres",
+    "objetivo": "El curso forma profesionales para trabajar en el control de calidad de procesos y productos químicos, en análisis químicos, fisicoquímicos y químico-biológicos, en la estandarización de productos y procesos, y también en la investigación y el desarrollo de nuevas tecnologíasct and process standardization, and also in research and development of new technologies."
+    },
+    {
+    "nome": "Tecnología en sistemas de Internet",
+    "duracao": "6 Semestres",
+    "objetivo": "El curso tiene como objetivo formar profesionales para trabajar en las áreas de desarrollo web, administración y diseño de redes informáticas, y administración de servicios y sistemas de internet."
+     },
+    {
+    "nome": "Próximamente: Ciencia de Datos e Inteligencia Artificial",
+    "duracao": "10 Semestres",
+    "objetivo": " Un curso homologado para el Campus de Toledo, con inicio previsto para 2027, centrado en tecnología e innovación."
+    } 
+]
